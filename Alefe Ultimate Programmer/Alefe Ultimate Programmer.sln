@@ -1,0 +1,23 @@
+Microsoft Visual Studio Solution File, Format Version 11.00
+# Visual Studio 2008
+
+Project("{C9551CBC-0B3A-32BF-06B2-CE1F63AE9B29}") = "Alefe Ultimate Programmer", "Assembly-CSharp.csproj", "{18DF1782-E48E-39BB-31F9-B438B5E9D323}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{18DF1782-E48E-39BB-31F9-B438B5E9D323}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{18DF1782-E48E-39BB-31F9-B438B5E9D323}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{18DF1782-E48E-39BB-31F9-B438B5E9D323}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{18DF1782-E48E-39BB-31F9-B438B5E9D323}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(MonoDevelopProperties) = preSolution
+		StartupItem = Assembly-CSharp.csproj
+	EndGlobalSection
+EndGlobal

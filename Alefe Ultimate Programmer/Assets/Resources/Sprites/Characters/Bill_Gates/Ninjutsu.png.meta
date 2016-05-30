@@ -1,0 +1,212 @@
+fileFormatVersion: 2
+guid: c4c881eff798f164ba1ae05042f8e1d1
+timeCreated: 1464397490
+licenseType: Free
+TextureImporter:
+  fileIDToRecycleName:
+    21300000: Ninjutsu_0
+    21300002: Ninjutsu_1
+    21300004: Ninjutsu_2
+    21300006: Ninjutsu_3
+    21300008: Ninjutsu_4
+    21300010: Ninjutsu_5
+    21300012: Ninjutsu_6
+    21300014: Ninjutsu_7
+  serializedVersion: 2
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 1
+    linearTexture: 0
+    correctGamma: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 0
+  cubemapConvolution: 0
+  cubemapConvolutionSteps: 7
+  cubemapConvolutionExponent: 1.5
+  seamlessCubemap: 0
+  textureFormat: -1
+  maxTextureSize: 2048
+  textureSettings:
+    filterMode: -1
+    aniso: 16
+    mipBias: -1
+    wrapMode: 1
+  nPOTScale: 0
+  lightmap: 0
+  rGBM: 0
+  compressionQuality: 50
+  allowsAlphaSplitting: 0
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spritePixelsToUnits: 100
+  alphaIsTransparency: 1
+  textureType: 8
+  buildTargetSettings: []
+  spriteSheet:
+    sprites:
+    - name: Ninjutsu_0
+      rect:
+        serializedVersion: 2
+        x: 5
+        y: 55
+        width: 40
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6, y: 24}
+        - {x: -20, y: 21}
+        - {x: -20, y: -24}
+        - {x: 20, y: -24}
+        - {x: 20, y: 24}
+    - name: Ninjutsu_1
+      rect:
+        serializedVersion: 2
+        x: 96
+        y: 55
+        width: 37
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -1.5, y: 24}
+        - {x: -4.5, y: 21}
+        - {x: -4.5, y: 19}
+        - {x: -18.5, y: 15}
+        - {x: -18.5, y: -23}
+        - {x: -17.5, y: -24}
+        - {x: 18.5, y: -24}
+        - {x: 18.5, y: 24}
+    - name: Ninjutsu_2
+      rect:
+        serializedVersion: 2
+        x: 187
+        y: 55
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -6.5, y: 23.5}
+        - {x: -17.5, y: 11.5}
+        - {x: -17.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 17.5, y: 20.5}
+        - {x: 16.5, y: 23.5}
+    - name: Ninjutsu_3
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 55
+        width: 35
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 15.5, y: 23.5}
+        - {x: -17.5, y: 23.5}
+        - {x: -17.5, y: -23.5}
+        - {x: 17.5, y: -23.5}
+        - {x: 17.5, y: 19.5}
+    - name: Ninjutsu_4
+      rect:
+        serializedVersion: 2
+        x: 364
+        y: 55
+        width: 38
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 1, y: 22}
+        - {x: -10, y: 14}
+        - {x: -18, y: 8}
+        - {x: -19, y: -2}
+        - {x: -19, y: -22}
+        - {x: 19, y: -22}
+        - {x: 19, y: 22}
+    - name: Ninjutsu_5
+      rect:
+        serializedVersion: 2
+        x: 452
+        y: 55
+        width: 39
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -5.5, y: 22}
+        - {x: -19.5, y: 1}
+        - {x: -19.5, y: -22}
+        - {x: 18.5, y: -22}
+        - {x: 19.5, y: -20}
+        - {x: 19.5, y: 22}
+    - name: Ninjutsu_6
+      rect:
+        serializedVersion: 2
+        x: 12
+        y: 2
+        width: 61
+        height: 44
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: -12.5, y: 22}
+        - {x: -30.5, y: -11}
+        - {x: -30.5, y: -22}
+        - {x: 15.5, y: -22}
+        - {x: 30.5, y: -16}
+        - {x: 30.5, y: 15}
+        - {x: 13.5, y: 22}
+    - name: Ninjutsu_7
+      rect:
+        serializedVersion: 2
+        x: 100
+        y: 2
+        width: 74
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline:
+      - - {x: 24, y: -1.5}
+        - {x: 22, y: -4.5}
+        - {x: 35, y: -9.5}
+        - {x: 37, y: -5.5}
+        - {x: 37, y: 21.5}
+        - {x: 26, y: 21.5}
+        - {x: 14, y: 16.5}
+        - {x: 6, y: 21.5}
+        - {x: -19, y: 21.5}
+        - {x: -37, y: -3.5}
+        - {x: -37, y: -21.5}
+        - {x: 0, y: -21.5}
+        - {x: 1, y: -20.5}
+        - {x: 21, y: -3.5}
+        - {x: 26, y: 0.5}
+    outline: []
+  spritePackingTag: 
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
