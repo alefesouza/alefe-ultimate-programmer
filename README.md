@@ -1,8 +1,12 @@
 Alefe Ultimate Programmer
 =======
 
-**Versão:** alpha 0.01
+> My canGoBack always return false, that's my programmer way!
+
+**Versão:** Alpha 0.1
+
 **Data de criação do projeto:** 19/05/2016, só tenho tempo para modificar nos feriados e fins de semana
+
 **O que eu sabia sobre criação de jogos:** Nada
 
 É, faz um ano e meio que essa ideia surgiu na minha cabeça mas sempre pensei que fazer jogos era coisa difícil, até que fui em um meetup sobre criação de jogos usando o Unity e meu, é muito fácil até, ainda mais porque posso usar minha linguagem de programação favorita atualmente, o C#.
@@ -10,8 +14,11 @@ Alefe Ultimate Programmer
 A ideia desse jogo é ser um "cover" o jogo Naruto Ultimate Ninja (sou viciado em/jogos do Naruto), só que ao invés de ninjas, vão ser programadores, por exemplo:
 
 Naruto Uzumaki = Alefe Souza
+
 Madara Uchiha = Bill Gates
+
 Hashirama Senju = Steve Jobs
+
 Kaguya Ootsutsuki = Ada Lovelace
 
 Sempre imaginei em fazer ele em 3D igual a série Naruto Shippuden: Ultimate Ninja Storm, porém sou péssimo em design/modelagem 3D então vou fazer ele inicialmente em 2D tentando começar a fazer pixel art, assim lançarei primeiro o Alefe Ultimate Programmer (em 2D como o Naruto Ultimate Ninja), e depois o Alefe Ultimate Programmer Assembly (em 3D como o Naruto Shippuden Ultimate Ninja Storm).
