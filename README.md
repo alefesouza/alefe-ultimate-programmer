@@ -113,7 +113,7 @@ Naruto Uzumaki (modo sábio dos seis caminhos) - Alefe Souza (modo sênior dos s
 
 LOCAIS
 
-Vale do Fim - Vale do Silício
+Vale do Fim - Vale do Silício, com uma estátua de Bill Gates e Steve Jobs
 
 JUTSUS
 
