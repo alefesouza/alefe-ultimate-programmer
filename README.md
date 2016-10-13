@@ -157,7 +157,7 @@ Elefante do anoitecer - Alpha ElePHPant
 
 Night Guy - Nightly (Guy)
 
-Portão da morte - Portão do shutdown
+Portão da morte - Comando de shutdown
 
 Arte sábia: Estilo madeira: Mil mãos verdadeiras - Arte sênior: Estilo Apple: Mil fanboys verdadeiros
 
