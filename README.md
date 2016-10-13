@@ -45,6 +45,7 @@ Licença
 Você pode modificar e lançar esse jogo/programa como quiser, desde que libere o código fonte, e não esqueça de me dar os créditos :)
 
 Anotações
+----------
 
 Segue abaixo anotações que eu tenho feito nos últimos anos sobre esse jogo, vale lembrar que é tudo uma brincadeira:
 
@@ -110,6 +111,10 @@ Naruto Uzumaki (modo vínculo com Kurama) - Alefe Souza (modo vínculo com Firef
 
 Naruto Uzumaki (modo sábio dos seis caminhos) - Alefe Souza (modo sênior dos seis trimestres)
 
+LOCAIS
+
+Vale do Fim - Vale do Silício
+
 JUTSUS
 
 Kage Bunshin no Jutsu - Matrix Bunshin no Jutsu, clones tipo o do Agente Smith
@@ -149,6 +154,7 @@ Pavão do amanhecer - Pavão Release Candidate
 Tigre do entardecer - Tigre Beta
 
 Elefante do anoitecer - Alpha ElePHPant
+
 Night Guy - Nightly (Guy)
 
 Portão da morte - Portão do shutdown
@@ -157,7 +163,7 @@ Arte sábia: Estilo madeira: Mil mãos verdadeiras - Arte sênior: Estilo Apple:
 
 Shinra Tensei - Log Tensei
 
-Planetary Devastation - Data Devastation
+Planetary Devastation - Datacenter Devastation
 
 Explosão entre o céu e a terra - Explosão entre o servidor e o cliente
 
@@ -183,7 +189,7 @@ Son Goku - Mono [Estilo .NET]
 
 Kukuo - (não achei nenhum logo de cavalo)
 
-Saiken - Marmota do Golang [Estilo Concorrente] (o mais próximo de uma lesma que achei huehaheu)
+Saiken - Marmota do Golang [Estilo Concorrente] - (o mais próximo de uma lesma que achei huehaheu)
 
 Chōmei - Larry (Twitter) [Estilo Tweet]
 
@@ -218,7 +224,7 @@ FRASE ULTIMATE
 
 "Dor para o mundo" - "Bug para o mundo"
 
-"Reduza-se a cinzas" - "Reduza-se a binários"
+"Reduza-se a cinzas" - "Reduza-se a bits"
 
 REFERÊNCIAS
 
