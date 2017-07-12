@@ -69,7 +69,7 @@ Tsunade - Marissa Mayer
 
 Naruto Uzumaki - Alefe Souza
 
-Sakura Haruno - Letícia Pacheco
+Sakura Haruno - Ana Bastos
 
 Kakashi Hatake - Luis Garcia
 
@@ -114,22 +114,28 @@ Naruto Uzumaki (modo sábio dos seis caminhos) - Alefe Souza (modo sênior dos s
 LOCAIS
 
 Vale do Fim - Vale do Silício, com uma estátua de Bill Gates e Steve Jobs
+Laboratório da Bell Labs
+Frente da casa da Ada Lovelace
+Garagem de fundação da Apple
+Google Campus SP
+Coworking da FIAP Paulista
+iMasters Developer HUB
 
 JUTSUS
 
-Kage Bunshin no Jutsu - Matrix Bunshin no Jutsu, clones tipo o do Agente Smith
+Kage Bunshin no Jutsu - Matrix Bunshin no Jutsu, clones tipo o do Agente Smith, ou Thread Bunshin no Jutsu, novas instâncias podem ser os clones
 
-Rasengan - Moneygan
+Rasengan - Codegan
 
-Rasenshuriken - Moneyshuriken
+Rasenshuriken - Codeshuriken
 
-Oodama Rasengan - Milionary Moneygan
+Oodama Rasengan - Big Ball Codegan
 
-Chō Rasenshuriken - Bilionary Moneyshuriken
+Chō Rasenshuriken - Super Codeshuriken
 
-Rasenshuriken Planetário de Bijuu - Moneyshuriken Open Source Planetary
+Rasenshuriken Planetário de Bijuu - Codeshuriken Open Source Planetary
 
-Seis Caminhos: Mega Rasenshuriken = Six Trimesters: Mega Moneyshuriken
+Seis Caminhos: Mega Rasenshuriken = Six Trimesters: Mega Codeshuriken
 
 5 mil Naruto Uzumaki - 5120 Alefe Souza
 
@@ -145,9 +151,9 @@ Flecha de Indra - Flecha de Turing
 
 Entrada dinâmica - Variável dinâmica
 
-Lotus primária - Versão primária = Lotus Hello World
+Lotus primária - Versão primária ou Lotus Hello World
 
-Lotus oculta - Versão oculta = Lotus Private Beta
+Lotus oculta - Versão oculta ou Lotus Private Beta
 
 Pavão do amanhecer - Pavão Release Candidate
 
@@ -258,7 +264,8 @@ Os nomes dos oito portões serão comandos de terminal/cmd
 
 Aves do Itachi serão o logo do Mozilla Thunderbird
 
-O Rasenshuriken de todas as bijuus será Moneyshuriken de todos com os mascotes, com liberação de imagem, git, svn, .net, C, linguagem funcional, tweet, licença e web
+O Rasenshuriken de todas as bijuus será Code
+shuriken de todos com os mascotes, com liberação de imagem, git, svn, .net, C, linguagem funcional, tweet, licença e web
 
 Akatsuki poderia ser o RH
 
@@ -272,8 +279,8 @@ Os Limbos do Madara serão Bill Gates invisíveis escritos na linguagem de progr
 
 Árvore Divina = Árvore Binária
 
-Genin, Chunin, Jonin, Sannin = Estagiário, Júnior, Pleno, Sênior
+Acadêmia, Genin, Chunin, Jonin = Estagiário, Júnior, Pleno
 
 Rinnegan = Ritchiegan
 
-Sharingan = Dotcommagan, Commagan
+Sharingan = Semicolongan, Commagan
