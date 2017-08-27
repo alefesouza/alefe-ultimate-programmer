@@ -279,7 +279,7 @@ Kaguya muda entre dimensões, Ada Lovelace muda entre plataformas, escolher plat
 
 Luis lê livros de Java do Roberto, assim como Kakashi lê livros do Jiraiya
 
-Tubarões do Kisame são golfinhos do MySQL
+Tubarões do Kisame são golfinhos do MySQL, no ultimate pode aparecer um logo gigante do Docker, meio que representando o ataque do container todo e não só dos processos do MySQL.
 
 Os Limbos do Madara serão Bill Gates invisíveis escritos na linguagem de programação Limbo, só o "Rinnegan" do meu parceiro poderá vê-lo, porém um easter egg é que ele também poderá me ver escrito na linguagem de programação Alef como em uma cena que o Sasuke vê os Limbos em cor azul e o Naruto em cor laranja
 
