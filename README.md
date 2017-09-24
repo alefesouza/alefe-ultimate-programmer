@@ -285,8 +285,10 @@ Os Limbos do Madara serão Bill Gates invisíveis escritos na linguagem de progr
 
 Árvore Divina = Árvore Binária
 
-Acadêmia, Genin, Chunin, Jonin = Estagiário, Júnior, Pleno
+Acadêmia, Genin, Chunin, Jonin = Estagiário, Júnior, Pleno, Sênior
 
 Rinnegan = Ritchiegan
 
 Sharingan = Semicolongan, Commagan
+
+Sol e Lua nas mãos são 1 e 0
