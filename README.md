@@ -127,6 +127,8 @@ Coworking da FIAP Paulista
 
 iMasters Developer HUB
 
+Ichiraku Ramen - Sukiya
+
 JUTSUS
 
 Kage Bunshin no Jutsu - Matrix Bunshin no Jutsu, clones tipo o do Agente Smith, ou Thread Bunshin no Jutsu, novas instâncias podem ser os clones
@@ -141,7 +143,7 @@ Chō Rasenshuriken - Super Codeshuriken
 
 Rasenshuriken Planetário de Bijuu - Codeshuriken Open Source Planetary
 
-Seis Caminhos: Mega Rasenshuriken = Six Trimesters: Mega Codeshuriken
+Seis Caminhos: Mega Rasenshuriken - Six Trimesters: Mega Codeshuriken
 
 5 mil Naruto Uzumaki - 5120 Alefe Souza
 
