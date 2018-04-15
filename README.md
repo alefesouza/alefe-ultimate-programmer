@@ -1,17 +1,16 @@
-Alefe Ultimate Programmer
-=======
+# Alefe Ultimate Programmer
 
-> My canGoBack always return false, that's my programmer way!
+> My canGoBack always return false. That's my programmer way!
 
-**Versão:** Alpha 0.1
+**Version:** Alpha 0.1
 
-**Data de criação do projeto:** 19/05/2016, só tenho tempo para modificar nos feriados e fins de semana
+**Project Creation Date:** 19/05/2016
 
-**O que eu sabia sobre criação de jogos:** Nada
+**What I knew about games development:** Nothing
 
-É, faz um ano e meio que essa ideia surgiu na minha cabeça mas sempre pensei que fazer jogos era coisa difícil, até que fui em um meetup sobre criação de jogos usando o Unity e meu, é muito fácil até, ainda mais porque posso usar minha linguagem de programação favorita atualmente, o C#.
+There's more than three years that this ideia appeared on my mind but I always thought that game development was hard, but after I went to a meetup using Unity and it's more easier than a thought, and I also can use my favorite programming language, C#.
 
-A ideia desse jogo é ser um "cover" o jogo Naruto Ultimate Ninja (sou viciado em/jogos do Naruto), só que ao invés de ninjas, vão ser programadores, por exemplo:
+The ideia of this game is to be a "cover" of Naruto Ultimate Ninja (I like Naruto series and games very much), something like a fight game version of [SuperTuxKart](https://github.com/supertuxkart/stk-code) inspired on Naruto, but instead of ninjas, it'll have people important to the programming history and some friends of mine, for example:
 
 Naruto Uzumaki = Alefe Souza
 
@@ -21,14 +20,14 @@ Hashirama Senju = Steve Jobs
 
 Kaguya Ootsutsuki = Ada Lovelace
 
-Sempre imaginei em fazer ele em 3D igual a série Naruto Shippuden: Ultimate Ninja Storm, porém sou péssimo em design/modelagem 3D então vou fazer ele inicialmente em 2D tentando começar a fazer pixel art, assim lançarei primeiro o Alefe Ultimate Programmer (em 2D como o Naruto Ultimate Ninja), e depois o Alefe Ultimate Programmer Assembly (em 3D como o Naruto Shippuden Ultimate Ninja Storm).
+I always thought to create it in 3D like the Naruto Shippuden: Ultimate Ninja Storm game series, but I don't have time to study design/3D modelation (I prefer to study programming hahaha) so it's 2D trying to make pixel arts, so there will have the Alefe Ultimate Programmer first (in 2D like Naruto Ultimate Ninja), and after the Alefe Ultimate Programmer Assembly (in 3D like Naruto Shippuden Ultimate Ninja Storm game series).
 
-Todas as versões do jogo serão gratuitas e em código aberto, pois "gosto de espalhar conhecimento" huehaheu, tenho esperanças de que alguém ainda vai aprender jogos ou aplicativos analisando meu código assim como aprendi analisando o código de outras pessoas.
+All the game version will be free and open-source, because "I like to spread knowledge" hahaha, I like to think that someone will learn how to make games or apps analyzing my code, in the same way I learned to code analyzing other people code.
 
-Desenvolvido por [Alefe Souza](http://alefesouza.com).
+Developed by [Alefe Souza](https://alefesouza.com).
 
-Licença
-----------
+## License
+
     This program is free software: you can redistribute it and/or modify
     it under the terms of the GNU General Public License as published by
     the Free Software Foundation, either version 3 of the License, or
@@ -36,261 +35,269 @@ Licença
 
     This program is distributed in the hope that it will be useful,
     but WITHOUT ANY WARRANTY; without even the implied warranty of
-    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+    MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE. See the
     GNU General Public License for more details.
 
     You should have received a copy of the GNU General Public License
-    along with this program.  If not, see <http://www.gnu.org/licenses/>.
-	
-Você pode modificar e lançar esse jogo/programa como quiser, desde que libere o código fonte, e não esqueça de me dar os créditos :)
+    along with this program. If not, see <http://www.gnu.org/licenses/>.
+
+You can modify and launch this game/program as you want, but you need to open the source-code, and don't forget to give me the credits :)
+
+## Annotations
+
+Below there are some annotations I've done in the recent years about this game, remember that is just a kidding:
+
+* Kaguya - Ada Lovelace
+* Hagomoro - Charles Babbage
+* Hamura - George Boole
+* Ashura - Dennis Ritchie
+* Indra - Alan Turing
+* Hashirama Senju - Steve Jobs
+* Madara Uchiha - Bill Gates
+* Tobirama Senju - Tim Cook
+* Tsunade - Marissa Mayer
+* Naruto Uzumaki - Alefe Souza
+* Kakashi Hatake - Luis Garcia
+* Obito Uchiha - Joe Belfiore or James Montemagno
+* Jiraiya - Roberto Serson
+* Sai - Amabile Tolio
+* Iruka - Aldnir
+* Fuu - Mônica Brandão
+* Masked Man - Encrypted Man
+* Second Mizukage - John McAfee, I think they are similar
+* Hidden Sound Shinobi Four - Hidden Four Technology Sounds (dial-up sound, bip, Windows XP welcome, (Darude - Sandstorm?))
+* Pain Deva Path - ;
+* Pain Preta Path - Insert
+* Pain Naraka Path - CTRL+Z
+* Pain Asura Path - Fn Lock
+* Pain Animal Path - ' (summon exceptions?)
+* Pain Human Path - //
+* White Zetsu - #ffffff Zetsu
+* Black Zetsu - #000000 Zetsu
+* Naruto Uzumaki (Sage Mode) - Alefe Souza (Guru Mode)
+* Naruto Uzumaki (Kurama Chakra Mode) - Alefe Souza (Firefox Code Mode)
+* Naruto Uzumaki (Six Path Sage Mode) - Alefe Souza (Six Trimesters Guru Mode)
+
+### Bijuu
 
-Anotações
-----------
+Bijuus are Open Source Mascots, Bijuu Dama = Open Source Dama.
 
-Segue abaixo anotações que eu tenho feito nos últimos anos sobre esse jogo, vale lembrar que é tudo uma brincadeira:
+* Shukaku - GIMP [Image Style].
+* Matatabi - Octocat [GIT Style].
+* Isobu - Tortoise SVN [SVN Style].
+* Son Goku - Mono [.NET Style].
+* Kukuo - idk, need to find a cool horse mascot.
+* Saiken - Go Gopher [Concurrent Style] (is there a slug mascot?)
+* Chōmei - Larry (Twitter) [Tweet Style], or Pidgin (Message Style)
+* Gyuki - GNU [LICENSE style]
+* Kurama - Firefox [Web Style]
+* Juubi - Tux
 
-Kaguya - Ada Lovelace
+### Locations
 
-Hagomoro - Charles Babbage
+* Valley of the End - Valley of the Silicon, Silicon Valley with Bill Gates and Steve Jobs statues.
+* Bell Labs Dennis Richie's laboratory.
+* Ada Lovelace's House Front.
+* Apple Foundation Garage.
+* Google Campus SP.
+* iMasters Developer HUB
+* Ichiraku Ramen - Sukiya
 
-Hamura - George Boole
+### Jutsus
 
-Ashura - Dennis Ritchie
+#### Naruto - Alefe
 
-Indra - Alan Turing
+* Kage Bunshin no Jutsu - Matrix Bunshin no Jutsu, Agent Smith like clones, or Thread Bunshin no Jutsu, new threads can be the clones.
+* Rasengan - Codegan
+* Rasenshuriken - Codeshuriken
+* Oodama Rasengan - Big Ball Codegan
+* Massive Rasenshuriken - Massive Codeshuriken
+* Tailed Beast Planetary Rasenshuriken - Open Source Planetary Rasenshuriken
+* Sage Art: Super Tailed Beast Rasenshuriken - Guru Art: Super Open Source Codeshuriken
+* Six Paths: Ultra-Big Ball Rasenshuriken - Six Trimesters: Ultra-Big Ball Codeshuriken
+* Six Paths: Almighty Scream - Six Trimesters: Technology Scream
+* Naruto Uzumaki Five Thousand Combo - Alefe Souza 5120 Combo
 
-Hashirama Senju - Steve Jobs
+#### Sasuke - ?????
 
-Madara Uchiha - Bill Gates
+* Chidori: One Thousand Birds - CDori: One Thousand Lines
+* Use the weather lightning to make the kirin - Use the framework code to make the blow
+* Indra's Arrow - Turing's Arrow
 
-Tobirama Senju - Tim Cook
+#### Hyuga
 
-Tsunade - Marissa Mayer
+* Eight Trigrams Sixty-Four Palms - Eight Bytes Sixty-Four Bits
 
-Naruto Uzumaki - Alefe Souza
+#### Hashirama - Steve Jobs
 
-Sakura Haruno - Ana Bastos
+* Guru Art Wood Release: True Several Thousand Hands - Guru Art Apple Release: True Several Thousand Fanboys
 
-Kakashi Hatake - Luis Garcia
+#### Pain - ;
 
-Obito Uchiha - Joe Belfiore
+* Shinra Tensei - Log Tensei
+* Planetary Devastation - Datacenter Devastation
 
-Jiraiya - Roberto Serson
+#### Masked Man - Encrypted Man
 
-Sai - Amabile Tolio
+* Heaven and Earth Explosion Burial - Server and Client Explosion Burial
 
-Iruka - Aldnir
+#### Obito - Someone at Microsoft
 
-Pain - ; (ponto e vírgula)
+* Sword of Nunoboko - Sword of NuGet
 
-Pain Absorve Ninjutsu - Insert
+#### Kaguya
 
-Pain Revive - CTRL+Z
+* Eighty Gods Vacuum Attack - Eighty Masters Vacuum Attack
 
-Pain Ciborge - Fn Lock
+#### Tobirama Senju - Tim Cook
 
-Pain Invoca - ' (apóstrofo) (invoca exceptions?)
+* Impure World Reincarnation - Impure Disk Restauration
 
-Pain Absorve Mente - // ou \
+#### Guy
 
-4 sons Ninja - 4 sons tecnológicos (internet discada, bip, bem-vindo do Windows XP, (Darude - Sandstorm?))
+##### Taijutsus
 
-Fuu - Mônica Brandão
+* Dynamic Entry - Dynamic Variable
+* Front Lotus - Front-end Lotus
+* Reverse Lotus - Back-end Lotus
+* Morning Peacock - RC Peacock
+* Daytime Tiger - Beta Tiger
+* Evening Elephant - Alpha ElePHPant
+* Night Guy - Nightly Guy
 
-Masked Man - Encrypted Man
+##### Eight Gates
 
-Segundo Mizukage - John McAfee
+The eight gates are dangerous terminal commands, I'm not responsible if you try to run those commands =)
 
-Zetsu Branco - Zetsu #ffffff
+* Gate of Opening - echo 'Open' > file.conf
+* Gate of Healing - dd if=/dev/random of=/dev/sda
+* Gate of Life - shred /dev/sda
+* Gate of Pain - echo 'Pain' > /dev/sda
+* Gate of Limit - :(){:|:&};:
+* Gate of View - mv / /dev/null
+* Gate of Wonder - sudo rm -rf /
+* Gate of Death - mkfs.ext4 /dev/sda
 
-Zetsu Preto - Zetsu #000000
+### Phrases
 
-Naruto Uzumaki (modo sábio) - Alefe Souza (modo sênior)
+#### Sage Mode Kabuto - Guru Mode ????
 
-Naruto Uzumaki (modo vínculo com Kurama) - Alefe Souza (modo vínculo com Firefox)
+> "Snake? I'm no longer a snake. With these perfect Sage powers, I've shed my snake skin... And become a dragon!!" (Kabuto) - "Designer? I'm no longer a designer. With these perfect guru knowledge, I've shed my designer skin... And become a Da Vinci!!"
 
-Naruto Uzumaki (modo sábio dos seis caminhos) - Alefe Souza (modo sênior dos seis trimestres)
+#### Rock Lee - ?????
 
-LOCAIS
+> "A dropout will beat a genius through hard work." - "A dropout will beat a genius through effort and researching."
 
-Vale do Fim - Vale do Silício, com uma estátua de Bill Gates e Steve Jobs
+#### Madara - Bill
 
-Laboratório da Bell Labs
+> "Now, dance for me." - "Now, program for me."
 
-Frente da casa da Ada Lovelace
+#### Black Zetsu - #000000 Zetsu
 
-Garagem de fundação da Apple
+> "WRONG! THE WILL INSIDE ME DOESN'T BELONG TO YOU! MY WILL IS THE WILL OF... KAGUYA!!" - "WRONG! THE WILL INSIDE ME DOESN'T BELONG TO YOU! MY WILL IS THE WILL OF... ADA!!"
 
-Google Campus SP
+### Ultimate Jutsu Finish Scene
 
-Coworking da FIAP Paulista
+I'll get a little excited if I try to change all phrases, so I'll modify just someones.
 
-iMasters Developer HUB
+#### Naruto - Alefe
 
-Ichiraku Ramen - Sukiya
+> "I never go back on my word! That's my ninja way!" - "My canGoBack always return false. That's my programmer way!"
 
-JUTSUS
+> "No matter how tough it gets. I won't give up!" - "No matter how tough this project gets. I won't give up!"
 
-Kage Bunshin no Jutsu - Matrix Bunshin no Jutsu, clones tipo o do Agente Smith, ou Thread Bunshin no Jutsu, novas instâncias podem ser os clones
+> "I'll do whatever it takes to protect our bond." - "I'll do whatever it takes to protect our branch."
 
-Rasengan - Codegan
+> "I want to travel this dangerous path on my own." - "I want to travel this big project on my own."
 
-Rasenshuriken - Codeshuriken
+> "How can I become Hokage if I can't event save one friend?" - "How can I become CEO if I can't even help one coworker?"
 
-Oodama Rasengan - Big Ball Codegan
+> "We won't lose! Isn't that right, Kurama!" - "We won't lose! Isn't that right, Firefox!"
 
-Chō Rasenshuriken - Super Codeshuriken
+> "I'm going to be the next Hokage! I won't stop here." - "I'm going to be the next CEO! I won't stop here."
 
-Rasenshuriken Planetário de Bijuu - Codeshuriken Open Source Planetary
+#### Sasuke - ?????
 
-Seis Caminhos: Mega Rasenshuriken - Six Trimesters: Mega Codeshuriken
+> "Burn out" - "Bits out", in Portuguese, "Reduza-se a cinzas" could be "Reduza-se a bits"
 
-5 mil Naruto Uzumaki - 5120 Alefe Souza
+> "These eyes see darkness clearly..." - "These eyes see proprietary code clearly..."
 
-Six Paths: Almighty Scream - Six Trimesters: Technology Scream
+> "Destroy it, then rebuild it!!" - The same, with the meaning of no change for code refactoring.
 
-Chidori: Golpe dos mil pássaros - CDori: Golpe das mil linhas
+> "I will end this entire malignant system of evil!" - "I will end this entire malignant operation system of evil!"
 
-Aproveitar os raios do clima e fazer o kirin - Aproveitar os códigos do framework e fazer o .netrin
+#### Masked Man - Encrypted Man
 
-Flecha de Indra - Flecha de Turing
+> "There is no hope. No light. There is only despair..." - "There is no research. No effort. There is only laymans..."
 
-8 trigamas 64 golpes - 8 bytes 64 bits
+> "I shall rule this world. There are plenty of ways to go about it." - "I shall monopolize this world. There are plenty of ways to go about it."
 
-Entrada dinâmica - Variável dinâmica
+> "This world holds only despair. It is not worth existing." - "This world holds only laymans. It is not worth existing."
 
-Lotus primária - Versão primária ou Lotus Hello World
+> "I am unique. I and the second sage of six paths." - "I am unique, I am the second guru of six trimesters."
 
-Lotus oculta - Versão oculta ou Lotus Private Beta
+#### Madara - Bill
 
-Pavão do amanhecer - Pavão Release Candidate
+> "Strength is not will, but a phenomenon caused by physical objects." - "Programming is not will, but a phenomenon caused by virtual objects."
 
-Tigre do entardecer - Tigre Beta
+#### Kaguya - Ada
 
-Elefante do anoitecer - Alpha ElePHPant
+> "Chakra, come to me. Become one with me once more!" - "Programming, come to me. Become one with me once more!"
 
-Night Guy - Nightly (Guy)
+> "Farewell, reincarnation of Indra." - "Farewell, reincarnation of Turing."
 
-Portão da morte - Comando de shutdown
+#### Pain - ;
 
-Arte sábia: Estilo madeira: Mil mãos verdadeiras - Arte sênior: Estilo Apple: Mil fanboys verdadeiros
+> "Pain to the world..." - "Bug to the world..."
 
-Shinra Tensei - Log Tensei
+### References
 
-Planetary Devastation - Datacenter Devastation
+* On the Obito's ultimate jutsu where he is on top of Juubi, someone who is he on the game can summon Tux speaking "fell the dispair", appearing the blue screen with "Microsoft <3 Linux" of the //Build 2015, like a dispair of Microsoft using Linux.
 
-Explosão entre o céu e a terra - Explosão entre o servidor e o cliente
+* The Truth-Seeking Ball will be True Seeling Pixels, with 9 pixels, black, white, blue, green, red, orange, purple, cyan and transparent.
 
-Kuchiyose: Guedo Mazō - Kuchiyose: Leigo Mazō
+* All tomoes (on sharingan, juubi jinchurikis clothes, etc) will be simply ; (semicolons).
 
-Espada de Nunobuko - Espada de NuNuGet
+* My eyes on the equivalent of Naruto's Six Paths Mode will be simply + on the pupils, a reference to C++.
 
-Ataque de Vácuo de 80 deuses - Ataque de Vácuo de 80 masters
+* Me on the equivalent to the Naruto's sage mode will be with Neo's clothes of the Matrix, and instead of orange eyelids, I will be with very strong dark circles around the eyes, like I was very tired for be studying/programming for a long time, and green eyes like the Matrix letters.
 
-Jutsu de reanimação - Jutsu de restauração
+* A reference to the sage mode of the flogs, snakes and Senjus, there will be the guru mode of the programmers, designers and entrepreneurs, in the case my guru mode is of the programmers, the entrepreneur guru mode is of Steve Jobs, in the guru mode of the designer, the person insted of a snake skin, will be will Leonardo da Vinci clothes.
 
-BIJUU
+* Maybe will have styles with programming languages name instead of elements, like Java Style instead of Fire Style, for example.
 
-Bijuus são Open Source Mascots, Bijuu Dama = Open Source Dama
+* Six Paths Bō will be Six Trimesters Pipes (the || (or) of the programming).
 
-Shukaku - GIMP [Estilo Imagem, pode fazer selamentos como Shukaku]
+* Sage of Six Path will be Sage of Six Trimesters, reference to Moore's Law (18 months).
 
-Matatabi - Octocat [Estilo GIT]
+* The 9 tomoes on the back of Naruto Six Paths Mode will be nine C inside a #, a reference to C#.
 
-Isobu - Tortoise SVN [Estilo SVN]
+* Instead of load chakra with a hand seal, put the hand on the head, like as you are thinking.
 
-Son Goku - Mono [Estilo .NET]
+* Sage Mode will be Guru Mode.
 
-Kukuo - (não achei nenhum logo de cavalo)
+* Orochimaru's snakes are snake of the Python.
 
-Saiken - Marmota do Golang [Estilo Concorrente] - (o mais próximo de uma lesma que achei huehaheu)
+* Itachi's Crow will be Mozilla Thunderbird logo.
 
-Chōmei - Larry (Twitter) [Estilo Tweet]
+* The Sage Art: Super Tailed Beast Rasenshuriken will be the Guru Art: Super Open Source Rasenshuriken, with release of image, GIT, SVN, .NET, ?????, concurrent language, tweet or message, LICENSE and web.
 
-Gyuki - GNU [Estilo Licença]
+* Luis read Roberto's Java books, like Kakashi read Jiraiya's books.
 
-Kurama - Firefox [Estilo Web]
+* Kisame's sharks are MySQL dolphins, on the ultimate, can appear a big Docker logo, like a reference to a container attack, not only the MySQL processes.
 
-Juubi - Tux
+* The Limbo: Border Jail of Madara will be invisible Bill Gates clones writing on [Limbo programming language](<https://en.wikipedia.org/wiki/Limbo_(programming_language)>), just the "Ritchiegan" of my coworker will can see them, bug an easter egg is that he will can see me written on the [Alef programming language](<https://en.wikipedia.org/wiki/Alef_(programming_language)>), like in an scene where Sasuke see the Limbos in blue color and Naruto in the orange color.
 
-FRASES
+* Divine Tree - Binary Tree
 
-"Cobra? Eu não sou uma cobra, com meus poderes de sennin perfeitos eu posso retirar minha pele de cobra, E ME TORNO UM DRAGÃO" (Kabuto) - "Designer? Eu não sou um designer, com meus conhecimentos sênior perfeitos eu deixo de ser um designer, E ME TORNO UM DA VINCI"
+* Academy, Genin, Chunin, Jonin = Intern, Junior, Full, Senior
 
-"Aquele que trabalha duro supera o gênio" - "Aquele que pesquisa e se esforça muito supera o diplomata"
+* Rinnegan - Ritchiegan
 
-"Agora dance para mim até seus pés sangrarem... até a sua morte" - "Agora programe para mim até suas mãos sangrarem... até a sua morte"
+* Sharingan - Semicolongan, Commagan
 
-"Idiota, eu não sou a sua vontade, eu sou a vontade de Ootsutsuki Kaguya" - "Idiota, eu não sou sua lógica, eu sou a lógica de Lovelace Ada"
+* Sun and Moon on the hand are 1 and 0
 
-FRASE ULTIMATE
+* Dark Naruto!!, it's me fightning against the impostor syndrome.
 
-"Eu ainda me tornarei hokage, não vou parar aqui" - "Eu ainda me tornarei CEO, não vou parar aqui"
-
-"That's my true words, this is my programmer way" - "That's my 6 > 3 words, this.isMyProgrammerWay();"
-"I never go back with my words" - "My canGoBack() always return false;"
-
-"Não há luz, não há esperança, há somente desespero" - "Não há pesquisa, não há esforço, há apenas leiguice"
-
-"Eu ainda irei dominar esse mundo, e há tantas maneiras de fazer isso..." - "Eu ainda irei monopolizar esse mundo, e há tantas maneiras de fazer isso..."
-
-"Esse mundo só ostenta desespero. Não vale a pena existir" - "Esse mundo só ostenta leiguice. Não vale a pena competir"
-
-"Dor para o mundo" - "Bug para o mundo"
-
-"Reduza-se a cinzas" - "Reduza-se a bits"
-
-REFERÊNCIAS
-
-No ultimate do Obito em cima do juubi, o Joe Belfiore invoca o Tux falando "experimente o desespero", aparecendo o "Microsoft <3 Linux" da //Build 2015, como um certo desespero dela tendo que usar Linux
-
-As Esferas da Busca da Verdade são True (6 > 3) Seeling Pixels, totalizando 9 pixeis, preto, branco, azul, verde, vermelho, laranja, roxo, ciano e transparente.
-
-Tomoes são simplesmente ; , os meus olhos no equivalente ao Naruto modo rikudou/ashura são simplesmente + no lugar das pupilas, referência ao C++
-
-Eu no equivalente ao modo sennin do Naruto fico com uma capa do Matrix, e aos invés de pálpebras laranjas, fico com olheiras muito fortes, como se fosse muito sono por passar tempos programando sem dormir, e olhos verdes em referência aos caracteres do Matrix, os sapos são personagens do Vida de Suporte
-
-A lesma Katsuyo vira a mascote do Garotas Geeks, que logo é invocada pela Letícia (Sakura)
-
-Em referência ao modo sennin dos sapos, das cobras e dos Senju terá o modo sênior dos programadores, designers e empreendedores, no caso o dos programadores é o meu, e dos empreendedores o de Steve Jobs, no modo sênior dos designers a pessoa ao invés de ficar com pele de cobra ficará com roupas de Leonardo da Vinci
-
-Tentará usar estilos com nomes de linguagens de programação ao invés de elementos, como estilo Java ao invés de estilo fogo por exemplo
-
-Bastões dos 6 caminhos serão Pipes dos 6 trimestres (o || (ou) da programação)
-
-Sábio dos seis caminhos seria sênior dos 6 trimestres, lei de Moore (18 meses) das atualizações dos processadores Intel
-
-Os 9 Tomoes nas costas do Naruto modo rikudou/ashura serão 9 C dentro de um #, como referência ao C#
-
-Ao carregar chakra ao invés de fazer um sinal de mão, colocar uma mão fechada na cabeça como se estivesse pensando
-
-Modo Sennin/Sábio será Modo Sênior
-
-Cobras do Orochimaru serão cobras do logo do Python
-
-Os nomes dos oito portões serão comandos de terminal/cmd
-
-Aves do Itachi serão o logo do Mozilla Thunderbird
-
-O Rasenshuriken de todas as bijuus será Code
-shuriken de todos com os mascotes, com liberação de imagem, git, svn, .net, C, linguagem funcional, tweet, licença e web
-
-Akatsuki poderia ser o RH
-
-Kaguya muda entre dimensões, Ada Lovelace muda entre plataformas, escolher plataformas desktop e mobile na seleção de personagem
-
-Luis lê livros de Java do Roberto, assim como Kakashi lê livros do Jiraiya
-
-Tubarões do Kisame são golfinhos do MySQL, no ultimate pode aparecer um logo gigante do Docker, meio que representando o ataque do container todo e não só dos processos do MySQL.
-
-Os Limbos do Madara serão Bill Gates invisíveis escritos na linguagem de programação Limbo, só o "Rinnegan" do meu parceiro poderá vê-lo, porém um easter egg é que ele também poderá me ver escrito na linguagem de programação Alef como em uma cena que o Sasuke vê os Limbos em cor azul e o Naruto em cor laranja
-
-Árvore Divina = Árvore Binária
-
-Acadêmia, Genin, Chunin, Jonin = Estagiário, Júnior, Pleno, Sênior
-
-Rinnegan = Ritchiegan
-
-Sharingan = Semicolongan, Commagan
-
-Sol e Lua nas mãos são 1 e 0
+* Shoney Jump - O'Reilly
