@@ -20,7 +20,7 @@ Hashirama Senju = Steve Jobs
 
 Kaguya Ootsutsuki = Ada Lovelace
 
-I always thought to create it in 3D like the Naruto Shippuden: Ultimate Ninja Storm game series, but I don't have time to study design/3D modelation (I prefer to study programming hahaha) so it's 2D trying to make pixel arts, so there will have the Alefe Ultimate Programmer first (in 2D like Naruto Ultimate Ninja), and after the Alefe Ultimate Programmer Assembly (in 3D like Naruto Shippuden Ultimate Ninja Storm game series).
+I always thought to create it in 3D like the Naruto Shippuden: Ultimate Ninja Storm game series, but I don't have time to study design/3D modelation (I prefer to study programming hahaha) so it's 2D trying to make pixel arts, so there will be the Alefe Ultimate Programmer first (in 2D like Naruto Ultimate Ninja), and after the Alefe Ultimate Programmer Assembly (in 3D like Naruto Shippuden Ultimate Ninja Storm game series).
 
 All the game version will be free and open-source, because "I like to spread knowledge" hahaha, I like to think that someone will learn how to make games or apps analyzing my code, in the same way I learned to code analyzing other people code.
 
@@ -66,6 +66,7 @@ Below there are some annotations I've done in the recent years about this game, 
 * Masked Man - Encrypted Man
 * Second Mizukage - John McAfee, I think they are similar
 * Hidden Sound Shinobi Four - Hidden Four Technology Sounds (dial-up sound, bip, Windows XP welcome, (Darude - Sandstorm?))
+* Gold and Silver Brothers, Ginkaku and Kinkaku - Back and Front Brothers, Taylor Otwell and Evan You
 * Pain Deva Path - ;
 * Pain Preta Path - Insert
 * Pain Naraka Path - CTRL+Z
@@ -112,7 +113,7 @@ Bijuus are Open Source Mascots, Bijuu Dama = Open Source Dama.
 * Rasenshuriken - Codeshuriken
 * Oodama Rasengan - Big Ball Codegan
 * Massive Rasenshuriken - Massive Codeshuriken
-* Tailed Beast Planetary Rasenshuriken - Open Source Planetary Rasenshuriken
+* Tailed Beast Planetary Rasenshuriken - Open Source Planetary Codeshuriken
 * Sage Art: Super Tailed Beast Rasenshuriken - Guru Art: Super Open Source Codeshuriken
 * Six Paths: Ultra-Big Ball Rasenshuriken - Six Trimesters: Ultra-Big Ball Codeshuriken
 * Six Paths: Almighty Scream - Six Trimesters: Technology Scream
@@ -134,7 +135,7 @@ Bijuus are Open Source Mascots, Bijuu Dama = Open Source Dama.
 
 #### Pain - ;
 
-* Shinra Tensei - Log Tensei
+* Almighty Push - Technology Push
 * Planetary Devastation - Datacenter Devastation
 
 #### Masked Man - Encrypted Man
@@ -224,7 +225,7 @@ I'll get a little excited if I try to change all phrases, so I'll modify just so
 
 > "Destroy it, then rebuild it!!" - The same, with the meaning of no change for code refactoring.
 
-> "I will end this entire malignant system of evil!" - "I will end this entire malignant operation system of evil!"
+> "I will end this entire malignant system of evil!" - "I will end this entire malignant operational system of evil!"
 
 #### Masked Man - Encrypted Man
 
@@ -301,3 +302,7 @@ I'll get a little excited if I try to change all phrases, so I'll modify just so
 * Dark Naruto!!, it's me fightning against the impostor syndrome.
 
 * Shoney Jump - O'Reilly
+
+* Zabuza and Haku can be an agency CEO with a talented intern.
+
+* Particle Style - Microservice style
