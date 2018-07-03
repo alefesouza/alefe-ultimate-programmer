@@ -135,7 +135,8 @@ Bijuus are Open Source Mascots, Bijuu Dama = Open Source Dama.
 
 #### Pain - ;
 
-- Almighty Push - Technology Push
+- Almighty Push - Git Push
+- Universal Pull - Git Pull
 - Planetary Devastation - Datacenter Devastation
 
 #### Masked Man - Encrypted Man
