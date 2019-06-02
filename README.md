@@ -57,6 +57,7 @@ Below there are some annotations I've done in the recent years about this game, 
 - Tobirama Senju - Tim Cook
 - Tsunade - Marissa Mayer
 - Naruto Uzumaki - Alefe Souza
+- Kushina Uzumaki - Janaildes dos Santos :heart:
 - Kakashi Hatake - Luis Garcia
 - Obito Uchiha - Joe Belfiore or James Montemagno
 - Jiraiya - Maujor
